@@ -34,7 +34,7 @@
 
 - Inicia um subdiretório .git para monitorar o projeto: [git init]()
 
-- Adiciona todo o conteúdo da pasta para o monitoramento *** não altera o repositório e as alterações não são salvas até usarmos o "git commit" **: [git add .]() ou [git add *]()
+- Adiciona todo o conteúdo da pasta para o monitoramento, esse comando não altera o repositório e as alterações não são salvas até usarmos o "git commit": [git add .]() ou [git add *]()
 
 - Guarda um conjunto de alterações no histórico junto de uma mensagem: [git commit -m "comentário das alterações"]()
 
